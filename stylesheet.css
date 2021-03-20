@@ -1,10 +1,5 @@
 /* CSSのコメント記号 */
 
-div{
- height: 200px;
- background-image: url("flower.JPG");
- background-size: cover;
-}
 
 * {
   box-sizing: border-box;
@@ -14,6 +9,8 @@ div{
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
+  background-image: url("flower.JPG");
+  background-size: cover;
 }
 
 a {
