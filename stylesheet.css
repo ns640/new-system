@@ -1,5 +1,10 @@
 /* CSSのコメント記号 */
 
+div{
+  heght:200px;
+  background-image: url("");
+}
+
 
 * {
   box-sizing: border-box;
