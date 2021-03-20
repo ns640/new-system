@@ -25,18 +25,6 @@ body {
   animation: move 20s infinite both;
 }
 
-@keyframes move{
-  0% {
-    background-size:100% auto;
-  }
-  50% {
-    background-size:140% auto;
-  }
-  100% {
-    background-size:100% auto;
-  }
-}
-
 
 a {
   text-decoration: none;
