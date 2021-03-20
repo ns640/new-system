@@ -99,6 +99,7 @@ header {
   float: left;
   color: white;
   font-size:30px;
+  padding: 10px 0 ;
 }
 
 .header-right {
