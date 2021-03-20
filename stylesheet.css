@@ -12,8 +12,7 @@
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
-  width: 100vw;
-  height: 100vh;
+  height: 200px;
   background-image:url("https://github.com/ns640/new-system/blob/main/flower.JPG");
   background-repeat: no-repeat;
   background-position:50% 50%;
