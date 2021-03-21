@@ -1,8 +1,13 @@
 /* CSSのコメント記号 */
 
-div{
-  background-image: url("flower.jpg");
-  background-size: cover;
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image:url("flower.jpg");
+  background-repeat: no-repeat;
+  background-position:50% 50%;
+  background-size:contain;
 }
 
 * {
