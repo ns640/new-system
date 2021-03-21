@@ -33,6 +33,7 @@ a {
   font-size: 45px;
   letter-spacing: 5px;
   color: black;
+  text-align: left;
 }
 
 .top-wrapper p {
@@ -40,6 +41,7 @@ a {
   font-size: 16px;
   margin-bottom: 40px;
   color: black;
+  text-align: right;
 }
 
 .btn-wrapper {
