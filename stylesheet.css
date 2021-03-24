@@ -67,7 +67,7 @@ a {
 
 /* 項目のボタン修正箇所 */
 .btn {
-  padding: 8px 24px;
+  padding: 8px 24px 8px 8px;
   color: black;
   display: inline-block;
   opacity: 1;
@@ -76,7 +76,7 @@ a {
 }
 
 .btn:hover {
-  opacity: 0.7;
+  opacity: 0.8;
 }
 
 .fa {
