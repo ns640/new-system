@@ -93,7 +93,13 @@ td{
   background-color: #55acee; /*背景色*/
 }
 
+th:hover {
+  opacity: 0.8;
+}
 
+td:hover {
+  opacity: 0.8;
+}
 
 
 
