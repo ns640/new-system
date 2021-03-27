@@ -86,21 +86,21 @@ td{
   width: 70%;
 }
 
-th,td{
+th{
   border:solid 1px #aaaaaa;
 }
 
-th,td{
+td{
   border:double 2px #2196f3;
 }
 
-th,td{
-  border:dashed 2px #f44336;
-}
-
-th,td{
+th{
   color:white; /*文字色*/
   background-color: #2196f3; /*背景色*/
+}
+td{
+  color:white; /*文字色*/
+  background-color: #55acee; /*背景色*/
 }
 
 
