@@ -65,6 +65,52 @@ a {
   background-color: #55acee;
 }
 
+/* 表の修正箇所 */
+table th{
+  padding : 20px 10px;
+}
+
+table td{
+  padding : 20px 10px;
+}
+
+table{
+  width: 100%;
+}
+
+th{
+  width: 30%;
+}
+
+td{
+  width: 70%;
+}
+
+th,td{
+  border:solid 1px #aaaaaa;
+}
+
+th,td{
+  border:double 2px #2196f3;
+}
+
+th,td{
+  border:dashed 2px #f44336;
+}
+
+th,td{
+  color:white; /*文字色*/
+  background-color: #2196f3; /*背景色*/
+}
+
+th,td{
+  color:white; /*文字色*/
+  background-color: #f44336;　/*背景色*/
+}
+
+
+
+
 /* 項目のボタン修正箇所 */
 .btn {
   padding: 8px 24px 8px 8px;
