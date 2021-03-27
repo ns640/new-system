@@ -68,10 +68,12 @@ a {
 /* 表の修正箇所 */
 table th{
   padding : 10px 10px;
+  text-align: left;
 }
 
 table td{
   padding : 10px 10px;
+  text-align: left;
 }
 
 th{
