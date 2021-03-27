@@ -77,11 +77,11 @@ table td{
 }
 
 th{
-  border:solid 1px #aaaaaa;
+  border:double 2px #aaaaaa;
 }
 
 td{
-  border:double 2px #2196f3;
+  border:solid 1px #2196f3;
 }
 
 th{
