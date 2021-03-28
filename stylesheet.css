@@ -65,34 +65,24 @@ a {
   background-color: #55acee;
 }
 
+
 /* 表の修正箇所 */
 table th{
   padding : 10px 5px;
   text-align: left;
   font-weight: normal;
+  border:double 2px #aaaaaa;
+  color:white;
+  background-color: #2196f3;
 }
 
 table td{
   padding : 5px 5px;
   text-align: left;
   font-weight: normal;
-}
-
-th{
-  border:double 2px #aaaaaa;
-}
-
-td{
   border:solid 1px #2196f3;
-}
-
-th{
-  color:white; /*文字色*/
-  background-color: #2196f3; /*背景色*/
-}
-td{
-  color:white; /*文字色*/
-  background-color: #55acee; /*背景色*/
+  color:white;
+  background-color: #55acee;
 }
 
 td:hover {
