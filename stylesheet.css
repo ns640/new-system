@@ -39,7 +39,7 @@ a {
 .top-wrapper p {
   opacity: 1;
   font-size: 16px;
-  margin-bottom: 40px;
+   /* margin-bottom: 40px; */
   color: black;
   text-align: center;
 }
