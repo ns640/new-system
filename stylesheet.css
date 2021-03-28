@@ -75,6 +75,7 @@ table th{
 table td{
   padding : 5px 5px;
   text-align: left;
+  font-weight: normal;
 }
 
 th{
