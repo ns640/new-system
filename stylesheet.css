@@ -74,7 +74,6 @@ table th{
   border:double 2px #aaaaaa;
   color:white;
   background-color: #2196f3;
-  empty-cells: hide; 
 }
 
 table td{
@@ -84,7 +83,7 @@ table td{
   border:solid 1px #2196f3;
   color:black;
   background-color: #55acee;
-  empty-cells: hide; 
+  empty-cells: hide; /* 空白セルの境界線の表示・非表示 */ 
 }
 
 td:hover {
