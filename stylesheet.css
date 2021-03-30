@@ -67,6 +67,10 @@ a {
 
 
 /* 表の修正箇所 */
+table{
+  float: center;
+}
+
 table th{
   padding : 10px 5px;
   text-align: left;
@@ -74,7 +78,6 @@ table th{
   border:double 2px #aaaaaa;
   color:white;
   background-color: #2196f3;
-  float: center;
 }
 
 table td{
