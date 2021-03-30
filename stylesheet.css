@@ -74,6 +74,7 @@ table th{
   border:double 2px #aaaaaa;
   color:white;
   background-color: #2196f3;
+  float: center;
 }
 
 table td{
