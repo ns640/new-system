@@ -78,25 +78,6 @@ td:hover {
 
 
 
-
-/* 項目のボタン修正箇所 */
-.btn {
-  padding: 8px 24px 8px 8px;
-  color: black;
-  display: inline-block;
-  opacity: 1;
-  border-radius: 4px;
-  text-align: left;
-}
-
-.btn:hover {
-  opacity: 0.8;
-}
-
-.fa {
-  margin-right: 5px;
-}
-
 header {
   height: 65px;
   width: 100%;
@@ -104,11 +85,6 @@ header {
   position :fixed;
   top: 0;
   z-index: 10;
-}
-
-.logo {
-  width: 124px;
-  margin-top: 20px;
 }
 
 .header-left {
@@ -202,9 +178,6 @@ header {
   box-shadow: none;
 }
 
-footer img {
-  width: 125px;
-}
 
 footer p {
   color: black;
