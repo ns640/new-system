@@ -51,6 +51,8 @@ a {
 table{
   width: 100%;
   font-size: 80%;
+  /* 横幅の5% */ 
+  /* font-size: 5vw; */ 
 }
 
 table th{
