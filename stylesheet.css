@@ -49,7 +49,7 @@ a {
 
 /* 表の修正箇所 */
 table{
-  float: center;
+  width: 100%;
 }
 
 table th{
