@@ -206,11 +206,6 @@ footer {
 }
 
 @media all and (max-width: 1000px) {
-  table{
-  width: 100%;
-  font-size: 80%;
-  }
-  
   .lesson {
     width: 50%;
     margin-bottom: 50px;
