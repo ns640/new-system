@@ -22,7 +22,8 @@ a {
 
 .top-wrapper {
   padding: 70px 0 30px 0;
-  background-image: url("flower.JPG");
+  /*background-image: url("flower.JPG");*/
+  background-image: url("haguruma.JPG");
   background-size: cover;
   color: white;
   /* text-align: center; */
